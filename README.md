@@ -3,4 +3,4 @@
 * SCSS
 + JS
 
- nick91farfurak.github.io/Portfolio/
+ https://nick91farfurak.github.io/Portfolio/
